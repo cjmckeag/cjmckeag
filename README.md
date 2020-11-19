@@ -1,11 +1,10 @@
-## Hi, I'm Candace 👋
+## Hi, I'm Candace
 
-### I'm a Data Scientist and Statistician
+### I'm a Statistics Grad Student
 
-- 📈 I'm passionate about machine learning and working with data
-- 📚 I'm in the second year of my MS in Statistics program at UCLA
-- 👩🏻‍🎓 I have a BS in Statistical Science from UCSB
-- 🗄 Here, I've published some projects from school and internships
+- I'm passionate about statistics, machine learning, and working with data
+- I'm in the second year of my MS in Statistics program at UCLA
+- Here, I've published some projects from school and internships
 
 ### Connect with me:
 
