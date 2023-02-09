@@ -1,9 +1,8 @@
 ## Hi, I'm Candace
 
-### I'm a Statistics Grad Student
+### I'm a Senior Data Scientist
 
 - I'm passionate about statistics, machine learning, and working with data
-- I'm in the second year of my MS in Statistics program at UCLA
 - Here, I've published some projects from school and internships
 
 ### Connect with me:
